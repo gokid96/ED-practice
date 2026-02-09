@@ -1,4 +1,4 @@
-# Kafka Saga + Outbox 패턴 실습
+# Kafka Saga + Outbox 패턴
 
 ## 아키텍처
 
